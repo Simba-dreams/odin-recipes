@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: navy;
+}
+
+h1 {
+    text-align: center;
+}
+a:hover {
+    color:red;
+}
+h1 {
+    background-color: dodgerblue;
+    opacity: 0.4;
+}
+p {
+    background-color: lightcoral;
+}
+p {
+    color: blueviolet;
+}
+
